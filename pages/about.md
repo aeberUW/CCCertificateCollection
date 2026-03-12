@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-#Creatives Commons Licenses Considerations
+# Creatives Commons Licenses Considerations
 When working with Creative Commons (CC) licensed work, it's important to consider any restrictions based on the licenses! (See this breakdown of [CC Licenses](https://aeberuw.github.io/CCCertificateCourseWork/license-types) for more information about types of licenses). To know what you can and can't do with a work based on the restrictions, it's helpful to be familiar with a few key definitions: 
 
 ## Collection
