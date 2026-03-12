@@ -22,12 +22,6 @@
 {%- assign youtube-items = site.data[site.metadata ] | where_exp: 'item', 'item.objectid' | where_exp: "item","item.youtubeid" -%}
 {%- if youtube-items -%}{%- assign carousel-items = image-items | concat: youtube-items -%}{%- else -%}{%- assign carousel-items = image-items -%}{% endif %}
 
-{% if site.data.theme.carousel-child-objects == true %}
-{%- assign carousel-items = carousel-items | where_exp: 'item','item.title != nil' -%}
-{% else %}
-{%- assign carousel-items = carousel-items | where_exp: 'item','item.parentid == nil' -%}
-{% endif %}
-
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
@@ -41,8 +35,7 @@
 <div class="card mb-3">
     {% if include.header %}<{{ include.heading_level | default: 'h2' | strip }} class="card-header h5">{{ include.header }}</{{ include.heading_level | default: 'h2' | strip }}>{% endif %}
     <div class="card-body">
-        {% if include.title %}<{{ include.heading_level | default: 'h2' | strip }} class="card-title h5">{{ include.title }}</{{ include.heading_level | default: 'h2' | strip }}>{% endif %}
-        
+               
         <div id="imageCarousel" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
             <div id="carouselIndicators" class="carousel-indicators">
                 
