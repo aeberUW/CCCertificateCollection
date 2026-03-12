@@ -6,7 +6,7 @@
 
             <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white">{{ site.title }}</a></h2>
             <p class="text-white"><small>{{ site.description }}</small></p>
-            <p class="text-white"><small>{{ <a href="https://aeberuw.github.io/CCCertificateCollection/">"Murine Molar Collection"</a> by <a href="https://orcid.org/0009-0000-8922-8877">Anneliese Eber</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>}}</small></p>
+            <p class="text-white"><small><a href="https://aeberuw.github.io/CCCertificateCollection/">"Murine Molar Collection"</a> by <a href="https://orcid.org/0009-0000-8922-8877">Anneliese Eber</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a></small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
