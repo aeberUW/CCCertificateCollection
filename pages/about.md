@@ -14,6 +14,8 @@ When working with Creative Commons (CC) licensed work, it's important to conside
 ## Collection
 A collection involves taking individual works and compiling them into a collective whole work while keeping them organized as distinct and separate objects. A collection is _not_ an adaptation. This [Collection Licenses Chart](https://creativecommons.org/faq/#if-i-create-a-collection-that-includes-a-work-offered-under-a-cc-license-which-licenses-may-i-choose-for-the-collection) will help you determine what license to apply to your collection. 
 
+**Remember** Determining the difference between a collection and an adaptation can be tricky! What constitutes a collection versus an adaptation may vary by jurisdiction so make sure to check your country's copyright law. 
+
 ## Adaptation/Adapted works
 A new work that is based on pre-existing work. An adaptation is also sometimes called a derivative work. Somethings it typically considered an adaptations when the modified work creates something with sufficient new content or creativity that it itself would be copyrightable. This [Adapters's License Chart](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use) will help you determine which CC licenses you can use for your adaptation based on the licenses of the original work(s). 
 
@@ -39,4 +41,10 @@ A new work that includes changes (that may or may not be limited to an adaptatio
 ### About the Collection
 This collection is built to support the learning objectives, outcomes, and assignments for the Creative Commons Certificate for Academic Librarians
 
+#### Collection License 
+[Murine Molar Collection](https://aeberuw.github.io/CCCertificateCollection/) by [Anneliese Eber](https://orcid.org/0009-0000-8922-8877) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0). 
+
+After looking at the range of CC licenses for the individual items in this collection, I made note of any specific requirements that would need to be considered in the overall collection license (e.g., NonCommercial elements). Since this collection does include items with NonCommercial license elements, I needed to make sure my collection license followed these terms and also needed to have a NonCommercial element. Using the [Collection Licenses Chart](https://creativecommons.org/faq/#if-i-create-a-collection-that-includes-a-work-offered-under-a-cc-license-which-licenses-may-i-choose-for-the-collection), I confirmed which licenses were available to me to use and selected [[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0). 
+
+#### Collection Template 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
