@@ -2,8 +2,6 @@
 title: Using CC Licensed Materials
 layout: about
 permalink: /cc-licensed-materials.html
-# include CollectionBuilder info at bottom
-credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -24,6 +22,3 @@ A remixed work is a new work that takes more than one pre-existing work to creat
 
 ## Derivative/Derivative works
 A new work that includes changes (that may or may not be limited to an adaptation) to the pre-existing work. A derivative work is often called an adapted work and they are sometimes used interchangably. Like an adaptation, a new work is typically considered a derivative if the new work itself has sufficient new content or creativity that it itself would be copyrightable. Unlike in the United States, Canada does not formally define what constitutes a derivative work in The _Copyright Act_ which 
-
-#### Collection Template 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)
