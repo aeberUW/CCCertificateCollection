@@ -17,7 +17,7 @@ After looking at the range of CC licenses for the individual items in this colle
 
 #### Creating a Remix Instead of a Collection
 
-If I were to take these materials and remix them instead, I would have to remove some of the materials in them to accommodate the NoDerivatives element on one of the items. Without removing it, I would have no licensing options for the collection as creating the remix would violate the terms of the CC BY-NC-ND license. Once this item was removed, I would still be limited to licenses including a NonCommercial element, and my license options would not change. 
+If I were to take these materials and remix them instead, I would have to remove some of the materials in them to accommodate the NoDerivatives element on one of the items. Without removing it, I would have no licensing options for the collection as creating the remix would violate the terms of the CC BY-NC-ND license. Once this item was removed, I would still be limited to licenses including a ShareAlike element, and my license options would change to the license options that do not include the [NonCommercial element](https://creativecommons.org/faq/#if-i-create-a-collection-that-includes-a-work-offered-under-a-cc-license-which-licenses-may-i-choose-for-the-collection).
 
 ### References
 - “2.1 Copyright Basics” (<https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/>) by Creative Commons. CC BY 4.0.
