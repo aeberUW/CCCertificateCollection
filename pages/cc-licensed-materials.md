@@ -31,4 +31,5 @@ A remixed work is a new work that takes more than one pre-existing work to creat
 ## Derivative/Derivative works
 A new work that includes changes (that may or may not be limited to an adaptation) to the pre-existing work. A derivative work is often called an adapted work and the two terms are sometimes used interchangeably. Like an adaptation, a new work is typically considered a derivative if the new work itself has sufficient new content or creativity that it itself would be copyrightable. Unlike in the United States, Canada does not formally define what constitutes a derivative work in The _Copyright Act_ which means it is extra important to understand what might be considerd a derivative or not. 
 
-**Remember** You can make changes to NoDerivative licensed works for private use but you cannot share them!
+**Remember** 
+- You can make changes to NoDerivative licensed works for private use but you cannot share them!
