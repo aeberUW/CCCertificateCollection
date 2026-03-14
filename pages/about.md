@@ -21,6 +21,7 @@ If I were to take these materials and remix them instead, I would have to remove
 
 ### References
 - “2.1 Copyright Basics” (<https://creativecommons.org/course/cc-cert-edu/unit-2-copyright-law/2-1-copyright-basics/>) by Creative Commons. CC BY 4.0.
+- "4. Collections and Remixes" in "Creative Commons Certificate" (<https://pressbooks.bccampus.ca/cccertificate/chapter/collections-and-remixes/#chapter-208-section-1>) by Arianna Cheveldave. CC BY 4.0. 
 - “4.1 Choosing and Applying a CC License” (<https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-1-choosing-and-applying-a-cc-license/>) by Creative Commons. CC BY 4.0.
 - “4.2 Things to Consider after CC Licensing” (<https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-2-things-to-consider-after-cc-licensing/>) by Creative Commons. CC BY 4.0.
 - “4.3 Finding and Reusing CC-Licensed Work” (<https://creativecommons.org/course/cc-cert-edu/unit-4-using-cc-licenses-and-cc-licensed-works/4-3-finding-and-reusing-cc-licensed-work/>) by Creative Commons. CC BY 4.0.
