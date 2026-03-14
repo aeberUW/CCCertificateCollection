@@ -15,10 +15,18 @@ A collection involves taking individual works and compiling them into a collecti
 **Remember** Determining the difference between a collection and an adaptation can be tricky! What constitutes a collection versus an adaptation may vary by jurisdiction so make sure to check your country's copyright law. 
 
 ## Adaptation/Adapted works
-A new work that is based on pre-existing work. An adaptation is also sometimes called a derivative work. Somethings it typically considered an adaptations when the modified work creates something with sufficient new content or creativity that it itself would be copyrightable. This [Adapters's License Chart](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use) will help you determine which CC licenses you can use for your adaptation based on the licenses of the original work(s). 
+A new work that is based on pre-existing work. An adaptation is also sometimes called a derivative work. Somethings it typically considered an adaptations when the modified work creates something with sufficient new content or creativity that it itself would be copyrightable. This [Adapters License Chart](https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use) will help you determine which CC licenses you can use for your adaptation based on the licenses of the original work(s). 
+
+**Remember** 
+- If any items in your adaptiation include a ShareAlike element, you must apply the same license as the original item or a designated compatible license.
+- If any items in your adaptation include NonCommercial element in the license, it is strongly recommended to use a license that also includes a NonCommercial element. 
 
 ## Remix
 A remixed work is a new work that takes more than one pre-existing work to create a new work. This ]License Compatibility Chart](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work) will help you determine if works with different licenses can be remixed together or not. It will also help you choose which license too apply to your adaptation which should be the more restrictive of the licenses on the two licenses from the works you're remixing. 
 
+**Remember** It is important to check for license compatibility when remixing works! 
+
 ## Derivative/Derivative works
-A new work that includes changes (that may or may not be limited to an adaptation) to the pre-existing work. A derivative work is often called an adapted work and they are sometimes used interchangably. Like an adaptation, a new work is typically considered a derivative if the new work itself has sufficient new content or creativity that it itself would be copyrightable. Unlike in the United States, Canada does not formally define what constitutes a derivative work in The _Copyright Act_ which 
+A new work that includes changes (that may or may not be limited to an adaptation) to the pre-existing work. A derivative work is often called an adapted work and they are sometimes used interchangeably. Like an adaptation, a new work is typically considered a derivative if the new work itself has sufficient new content or creativity that it itself would be copyrightable. Unlike in the United States, Canada does not formally define what constitutes a derivative work in The _Copyright Act_ which means it is extra important to understand what might be considerd a derivative or not. 
+
+**Remember** You can make changes to NoDerivative licensed works for private use but you cannot share them!
